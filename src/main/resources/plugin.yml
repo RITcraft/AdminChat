@@ -1,0 +1,7 @@
+name: RitcraftAdminChat
+description: "Admin secreeeeet chat"
+version: 1.0
+main: edu.rit.ritcraft.adminchat.AdminChat
+commands:
+ a:
+  description: "Admin chat"
